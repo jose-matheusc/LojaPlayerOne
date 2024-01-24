@@ -1,5 +1,3 @@
-###Bem-vindo ao projeto da Loja Player One, projeto produzido por eu e mais dois amigos da UFRPE 😊
-
 1- Instalar as sequintes bibliotecas:
 PyQt5==5.15.9
 PyQt5_sip==12.12.2
