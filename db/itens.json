@@ -1,0 +1,192 @@
+[
+
+    {
+        "id": 1,
+        "nome": "Camisa-naruto-branca",
+        "imagem": ":/produtos/Camisas/One Piece, Naruto e Simpsons/naturo-branca.png",
+        "preco": 70
+    },
+    {
+        "id": 2,
+        "nome": "Camisa-onepiece-branca",
+        "imagem": ":/produtos/Camisas/One Piece, Naruto e Simpsons/onepiece-branca.png",
+        "preco": 70
+    },
+    {
+        "id": 3,
+        "nome": "Camisa-simpsons-branca",
+        "imagem": ":/produtos/Camisas/One Piece, Naruto e Simpsons/simpsons-branco.png",
+        "preco": 70
+    },
+    {
+        "id": 4,
+        "nome": "Camisa-naruto-preta",
+        "imagem": ":/produtos/Camisas/One Piece, Naruto e Simpsons/naturo-preta.png",
+        "preco": 70
+    },
+    {
+        "id": 5,
+        "nome": "Camisa-onepiece-preta",
+        "imagem": ":/produtos/Camisas/One Piece, Naruto e Simpsons/onepiece-preta.png",
+        "preco": 70
+    },
+    {
+        "id": 6,
+        "nome": "Camisa-simpsons-preta",
+        "imagem": ":/produtos/Camisas/One Piece, Naruto e Simpsons/simpsons-preto.png",
+        "preco": 70
+    },
+
+
+    {
+        "id": 7,
+        "nome": "Short-onep-preta",
+        "imagem": ":/produtos/shorts/short-template-preto-onep-remove.png",
+        "preco": 70
+    },
+    {
+        "id": 8,
+        "nome": "Short-simpsons-preta",
+        "imagem": ":/produtos/shorts/short-template-preto-simpsons.png",
+        "preco": 70
+    },
+    {
+        "id": 9,
+        "nome": "Short-naruto-preta",
+        "imagem": ":/produtos/shorts/short-template-preto-naruto.png",
+        "preco": 70
+    },
+    {
+        "id": 10,
+        "nome": "Short-simpsons-rosa",
+        "imagem": ":/produtos/shorts/short-template-rosa-simpsons.png",
+        "preco": 70
+    },
+    {
+        "id": 11,
+        "nome": "Short-naruto-rosa",
+        "imagem": ":/produtos/shorts/short-template-rosa-naruto.png",
+        "preco": 70
+    },
+    {
+        "id": 12,
+        "nome": "Short-onep-rosa",
+        "imagem": ":/produtos/shorts/short-template-rosa-onep.png",
+        "preco": 70
+    },
+    
+
+
+    {
+        "id": 13,
+        "nome": "Broche-naruto",
+        "imagem": ":/produtos/Broches/naruto-broce.png",
+        "preco": 15
+    },
+    {
+        "id": 14,
+        "nome": "Broche-onepiece",
+        "imagem": ":/produtos/Broches/onepiece-broche.png",
+        "preco": 15
+    },
+    {
+        "id": 15,
+        "nome": "Broche-simpsons",
+        "imagem": ":/produtos/Broches/simpsons-broce.png",
+        "preco": 15
+    },
+    {
+        "id": 16,
+        "nome": "Caneca-naruto",
+        "imagem": ":/produtos/shorts/caneca-naruto.png",
+        "preco": 30
+    },
+    {
+        "id": 17,
+        "nome": "Caneca-onepiece",
+        "imagem": ":/produtos/shorts/caneca-onep.png",
+        "preco": 30
+    },
+    {
+        "id": 18,
+        "nome": "Caneca-simpsons",
+        "imagem": ":/produtos/shorts/caneca-simpsons.png",
+        "preco": 30
+    },
+
+
+    {
+        "id": 19,
+        "nome": "Moletom-preto-onep",
+        "imagem": ":/produtos/Moletons/One piece, Naruto e Simpsons/onepiece-preto-moletom.png",
+        "preco": 90
+    },
+    {
+        "id": 20,
+        "nome": "Moletom-preto-simpsons",
+        "imagem": ":/produtos/Moletons/One piece, Naruto e Simpsons/simpsons-preto-moletom.png",
+        "preco": 90
+    },
+    {
+        "id": 21,
+        "nome": "Moletom-preto-naruto",
+        "imagem": ":/produtos/Moletons/One piece, Naruto e Simpsons/naturo-preta-moletom.png",
+        "preco": 90
+    },
+    {
+        "id": 22,
+        "nome": "Moletom-branco-onep",
+        "imagem": ":/produtos/Moletons/One piece, Naruto e Simpsons/onepiece-branco-moletom.png",
+        "preco": 70
+    },
+    {
+        "id": 23,
+        "nome": "Moletom-branco-simpsons",
+        "imagem": ":/produtos/Moletons/One piece, Naruto e Simpsons/simpsons-branco-moletom.png",
+        "preco": 70
+    },
+    {
+        "id": 24,
+        "nome": "Moletom-branco-naruto",
+        "imagem": ":/produtos/Moletons/One piece, Naruto e Simpsons/naturo-branco-moletom.png",
+        "preco": 70
+    },
+
+
+    {
+        "id": 25,
+        "nome": "Chapeu-naruto-preto",
+        "imagem": ":/produtos/bones/One piece, Naruto, Simpsons/naruto-preto-bone.png",
+        "preco": 30
+    },
+    {
+        "id": 26,
+        "nome": "Chapeu-onepiece-preto",
+        "imagem": ":/produtos/bones/One piece, Naruto, Simpsons/onepiece-preto-bone.png",
+        "preco": 30
+    },
+    {
+        "id": 27,
+        "nome": "Chapeu-simpsons-preto",
+        "imagem": ":/produtos/bones/One piece, Naruto, Simpsons/simpsons-preto-bone.png",
+        "preco": 30
+    },
+    {
+        "id": 28,
+        "nome": "Chapeu-naruto-Branco",
+        "imagem": ":/produtos/bones/One piece, Naruto, Simpsons/naruto-branco-bone.png",
+        "preco": 30
+    },
+    {
+        "id": 29,
+        "nome": "Chapeu-onepiece-Branco",
+        "imagem": ":/produtos/bones/One piece, Naruto, Simpsons/onepiece-branco-bone.png",
+        "preco": 30
+    },
+    {
+        "id": 30,
+        "nome": "Chapeu-simpsons-Branco",
+        "imagem": ":/produtos/bones/One piece, Naruto, Simpsons/simpsons-branco-bone.png",
+        "preco": 30
+    }
+]

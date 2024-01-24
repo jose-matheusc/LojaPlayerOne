@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="produtos">
+    <file>shorts/caneca-naruto.png</file>
+    <file>shorts/caneca-onep.png</file>
+    <file>shorts/caneca-simpsons.png</file>
+    <file>shorts/short-template-preto-naruto.png</file>
+    <file>shorts/short-template-preto-onep-remove.png</file>
+    <file>shorts/short-template-preto-simpsons.png</file>
+    <file>shorts/short-template-rosa-naruto.png</file>
+    <file>shorts/short-template-rosa-onep.png</file>
+    <file>shorts/short-template-rosa-simpsons.png</file>
+    <file>logos/capa-pronta2.png</file>
+    <file>logos/capa-pronta.png</file>
+    <file>logos/capa-personagens.png</file>
+    <file>logos/logo-naruto.png</file>
+    <file>logos/logo-onep.png</file>
+    <file>logos/logo-simpsons.png</file>
+    <file>Moletons/One piece, Naruto e Simpsons/naturo-branco-moletom.png</file>
+    <file>bones/One piece, Naruto, Simpsons/naruto-branco-bone.png</file>
+    <file>bones/One piece, Naruto, Simpsons/naruto-preto-bone.png</file>
+    <file>bones/One piece, Naruto, Simpsons/onepiece-branco-bone.png</file>
+    <file>bones/One piece, Naruto, Simpsons/onepiece-preto-bone.png</file>
+    <file>bones/One piece, Naruto, Simpsons/simpsons-branco-bone.png</file>
+    <file>bones/One piece, Naruto, Simpsons/simpsons-preto-bone.png</file>
+    <file>Moletons/One piece, Naruto e Simpsons/naturo-preta-moletom.png</file>
+    <file>Moletons/One piece, Naruto e Simpsons/onepiece-branco-moletom.png</file>
+    <file>Broches/naruto-broce.png</file>
+    <file>Broches/onepiece-broche.png</file>
+    <file>Broches/simpsons-broce.png</file>
+    <file>Moletons/One piece, Naruto e Simpsons/onepiece-preto-moletom.png</file>
+    <file>Moletons/One piece, Naruto e Simpsons/simpsons-branco-moletom.png</file>
+    <file>Moletons/One piece, Naruto e Simpsons/simpsons-preto-moletom.png</file>
+    <file>Camisas/One Piece, Naruto e Simpsons/naturo-branca.png</file>
+    <file>Camisas/One Piece, Naruto e Simpsons/naturo-preta.png</file>
+    <file>Camisas/One Piece, Naruto e Simpsons/onepiece-branca.png</file>
+    <file>Camisas/One Piece, Naruto e Simpsons/onepiece-preta.png</file>
+    <file>Camisas/One Piece, Naruto e Simpsons/simpsons-branco.png</file>
+    <file>Camisas/One Piece, Naruto e Simpsons/simpsons-preto.png</file>
+  </qresource>
+</RCC>

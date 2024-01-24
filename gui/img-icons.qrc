@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="imgicons">
+    <file>../icones/Gamepad(1).png</file>
+    <file>../icones/cadastroo.png</file>
+    <file>../icones/carr.png</file>
+    <file>../icones/filtro.png</file>
+    <file>../icones/Gamepad (3).png</file>
+    <file>../icones/Gamepad.png</file>
+    <file>../icones/playerone.png</file>
+  </qresource>
+</RCC>
